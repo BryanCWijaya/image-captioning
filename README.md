@@ -1,2 +1,2 @@
 # image-captioning
-Image Captioning with CNN (Xception) and RNN (LSTM)
+In this project, I will make a Deep Learning Model for image captioning. This model is combination of CNN and RNN and will be trained on flickr8k dataset. A convolutional neural network can be used to create a dense feature vector. This dense vector, also called an embedding, can be used as feature input into other algorithms or networks, in this case, will be used as the initial state of the LSTM. LSTM is a recurrent neural network architecture that is commonly used in problems with temporal dependences.
